@@ -30,7 +30,7 @@ This project is an end-to-end HR analytics solution built using SQL, Power BI, a
 ![Power BI Dashboard](Screenshots/powerbi_dashboard.png)
 
 ### Tableau Dashboard
-![Tableau Dashboard]02_Tableau_Dashboard/tableau_dashboard.png.png
+![Tableau Dashboard](Screenshots/tableau_dashboard.png)
 
 ---
 
